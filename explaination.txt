@@ -1,0 +1,7 @@
+In the browser window, the cached webpage is displayed. If the webpage is not in the cache, the webpage is fetched from its respective server and saved in the cache. 
+
+If the webpage is not in the cache, the log lines will print the hostname of the webpage
+If the webpage is in the cache, the log lines will print "read from cache"
+
+The HTTP response messages are cached and stored in the MP2 folder
+The messages contain HTML code for the webpages in the message body   
